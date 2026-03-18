@@ -1,0 +1,1 @@
+export const TEXT_MIXER_SCREEN_CONTENT_TOP_OFFSET = '$2.5';
