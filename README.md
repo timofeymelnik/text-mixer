@@ -2,6 +2,8 @@
 
 Expo mini app for the Alter test task. The flow captures a source text, captures a style reference, sends both to Claude through a local proxy, and reveals the rewritten result with connected transitions, mixing animation, voice transcription, and TTS playback.
 
+https://github.com/user-attachments/assets/3a632869-8d5a-4602-bd95-b9b81289e8b2
+
 ## Setup
 
 1. Install dependencies:
