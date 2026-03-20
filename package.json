@@ -18,6 +18,7 @@
     "@gluestack-ui/themed": "^1.1.73",
     "@react-navigation/native": "^7.1.33",
     "@react-navigation/native-stack": "^7.14.5",
+    "abort-controller": "^3.0.0",
     "cors": "^2.8.6",
     "expo": "~55.0.7",
     "expo-audio": "^55.0.9",
@@ -33,7 +34,8 @@
     "react-native-safe-area-context": "~5.6.2",
     "react-native-screens": "~4.23.0",
     "react-native-svg": "^15.15.3",
-    "react-native-web": "^0.21.2"
+    "react-native-web": "^0.21.2",
+    "whatwg-url-minimum": "^0.1.1"
   },
   "devDependencies": {
     "@testing-library/jest-native": "^5.4.3",
